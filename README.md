@@ -24,4 +24,7 @@ Users see an interactive report highlighting improvements.
 
 <img width="983" height="694" alt="image" src="https://github.com/user-attachments/assets/4a7511a9-bb76-435b-abf8-0a56a539288d" />
 
+Upload the resume to anaylze it 
+<img width="1110" height="510" alt="image" src="https://github.com/user-attachments/assets/5b6f03ed-166e-4610-9cdd-0c959b82e752" />
+
 
