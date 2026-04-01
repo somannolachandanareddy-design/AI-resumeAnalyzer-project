@@ -28,3 +28,7 @@ Upload the resume to anaylze it
 <img width="1110" height="510" alt="image" src="https://github.com/user-attachments/assets/5b6f03ed-166e-4610-9cdd-0c959b82e752" />
 
 
+<img width="406" height="567" alt="image" src="https://github.com/user-attachments/assets/624b6da5-59e4-421e-9b0f-fbebb0a902c3" />
+
+
+
