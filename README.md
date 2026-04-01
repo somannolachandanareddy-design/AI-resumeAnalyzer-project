@@ -22,4 +22,6 @@ Backend extracts key information and analyzes it.
 Results and suggestions are sent back to the frontend.
 Users see an interactive report highlighting improvements.
 
+<img width="983" height="694" alt="image" src="https://github.com/user-attachments/assets/4a7511a9-bb76-435b-abf8-0a56a539288d" />
+
 
